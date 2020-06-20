@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureServiceBusConnection": "CONEXÃO AZURE SERVICE BUS",
+    "MongoConnection": "CONEXÃO MONGODB",
+    "MongoDatabase": "DBMoedas0",
+    "MongoCollection": "HistoricoCotacoes0",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
